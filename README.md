@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and coding.
 - 🌱 I’m currently learning data structures and react.js.
 - 💞️ I’m looking to collaborate on open source projects for my resume.
-- 📫 How to reach me just mail me on (av876777@gmail.com).
+- 📫 How to reach me just mail me on (adityasde2003@gmail.com).
 
 <!---
 AdityaVerma2003/AdityaVerma2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
